@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/todo.md",
+            "file": "youtube/scripts/bravo.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/todo.md",
+                "file": "youtube/scripts/bravo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/todo.md",
+                "file": "youtube/scripts/bravo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/todo.md"
+                "file": "youtube/scripts/bravo.md"
               }
             }
           }
@@ -130,7 +130,11 @@
   },
   "active": "cc0310bc0c9b3e1f",
   "lastOpenFiles": [
-    "todo.md",
-    "home/todo.md"
+    "youtube/Untitled.md",
+    "learning/ios.md",
+    "shopping/list.md",
+    "notes/Untitled.md",
+    "home/todo.md",
+    "todo.md"
   ]
 }
