@@ -1,8 +1,6 @@
-- [x] clean bathroom
-- [x] clean kitchen
+- [ ] clean bathroom
+- [ ] clean kitchen
 - [ ] clean bedroom
-- [x] clean living room
+- [ ] clean living room
 - [ ] clean pantry
-- [x] wash sheets
-- [x] put away clothes
 - [ ] clean floors
